@@ -1,31 +1,29 @@
-# Hi 👋, I'm Abhinav
+# Abhinav Kumar
 
-A curious comp sci student exploring areas of BlockChain, AI, Quant.
-
-
-## Achievements
-![Hyper Committer](https://img.shields.io/badge/commits-210pt-brightgreen)
-![Dynamic User](https://img.shields.io/badge/followers-35pt-green)
-![High Repo Creator](https://img.shields.io/badge/repositories-28pt-yellow)
-![Middle Star](https://img.shields.io/badge/stars-21pt-orange)
-![Junior Dev](https://img.shields.io/badge/experience-6pt-red)
-![First Pull](https://img.shields.io/badge/pullrequest-2pt-blue)
-
-- 🌱 I’m currently learning DSA (using cpp) as well as some OpenCV on the side
-- 💬 Ask me about BlockChain, Quant, Problem solving (Optimization)
-- 📫 How to reach me: chipnxv@gmail.com
+A passionate coding enthusiast and aspiring web developer
+- 🌱 Currently learning Arduino IDE and completing a web and software development bootcamp
+- 💬 Ask me about front-end development, api requests and problem-solving optimizations
+- 📫 Reach me at: chipnxv@gmail.com
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-kumar-v)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/abhinavuser)
 
 ## Languages and Tools:
-![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavuser&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Activity Graph:
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhinavuser&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
