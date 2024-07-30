@@ -20,7 +20,8 @@ A passionate coding enthusiast and aspiring web developer
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavuser&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavuser&show_icons=true&theme=dark&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 
