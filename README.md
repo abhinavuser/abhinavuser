@@ -1,6 +1,6 @@
 # Abhinav Kumar
 
-A passionate coding enthusiast and aspiring web developer
+Coding Hobbyist 
 - 🌱 Currently learning Arduino IDE and completing a web and software development bootcamp
 - 💬 Ask me about front-end development, api requests and problem-solving optimizations
 - 📫 Reach me at: chipnxv@gmail.com
