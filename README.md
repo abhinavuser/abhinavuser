@@ -1,7 +1,7 @@
 # Abhinav Kumar
 
 I Like to Develop!
-- 🌱 currently working on MERN stack, AI/ML and learning Arduino IDE and Neural Networks
+- 🌱 currently working on MERN stack, AI/ML and learning Arduino IDE and Deep learning
 - 💬 ask me about development, computer vision, api requests and problem-solving optimizations
 - 📫 reach me at: chipnxv@gmail.com
 
