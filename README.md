@@ -1,8 +1,8 @@
 # Abhinav Kumar
 
 I Like to Develop!
-- 🌱 currently working on MERN stack, AI/ML and learning Arduino IDE, Next.js and Flutter
-- 💬 ask me about full stack development, computer vision, api requests and problem-solving optimizations
+- 🌱 currently working on MERN stack, AI/ML and learning Arduino IDE and Neural Networks
+- 💬 ask me about development, computer vision, api requests and problem-solving optimizations
 - 📫 reach me at: chipnxv@gmail.com
 
 ## Connect with me:
@@ -16,7 +16,6 @@ I Like to Develop!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
