@@ -1,8 +1,8 @@
 # Abhinav Kumar
 
 I Like to Develop!
-- 🌱 currently working on MERN stack, AI/ML and learning Arduino IDE and Deep learning
-- 💬 ask me about development, computer vision, api requests and problem-solving optimizations
+- 🌱 Robotics and automation enthusiast working on Deep Learning, Computer Vision and Embedded Systems
+- 💬 Ask me about full-stack development, api requests and problem-solving optimizations
 - 📫 reach me at: chipnxv@gmail.com
 
 ## Connect with me:
@@ -11,6 +11,7 @@ I Like to Develop!
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
