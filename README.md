@@ -1,12 +1,10 @@
 # Abhinav Kumar
 
-🚀 **ML Engineer | Embedded Systems Enthusiast | Full-Stack Developer**  
+🚀 **Machine Learning and Embedded Engineer | Full Stack Developer**  
 📍 VIT Chennai
 
-I’m a developer and researcher passionate about AI hardware, SoCs, and all things automation. From deep learning models to low-level embedded systems, I love building across the stack — especially when math and innovation come into play.
-
-- 🧠 Working at the intersection of Machine Learning, Computer Vision, and Embedded AI  
-- ⚙️ From AI models to embedded prototypes, I enjoy building end-to-end across software stacks and hardware layers  
+- 🧠 Working on computational acceleration using specialized hardware
+- ⚙️ Ask me about LLMs, agentic systems, RAG, computer vision, embedded firmware development, and hardware.
 - 📬 Reach me at: chipnxv@gmail.com
 
 ## Connect with me:
@@ -55,5 +53,5 @@ I’m a developer and researcher passionate about AI hardware, SoCs, and all thi
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavuser&show_icons=true&theme=dark&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavuser&theme=tokyonight&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
