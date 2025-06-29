@@ -53,6 +53,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 
 ## GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavuser&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhinavuser&theme=tokyonight&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
