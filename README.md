@@ -11,9 +11,9 @@
 ## GitHub Stats
 
 <div style="display: flex; gap: 1rem; justify-content: center; align-items: stretch;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavuser&theme=rose_pine" width="68.5%" alt="Profile Details"/>
-  <img src="https://streak-stats.demolab.com/?user=abhinavuser&theme=rose_pine&hide_border=true" width="40%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=rose_pine&cache_seconds=1800&hide_border=true" width="28%" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavuser&theme=rose_pine" width="88.5%" alt="Profile Details"/>
+  <img src="https://streak-stats.demolab.com/?user=abhinavuser&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=rose_pine&cache_seconds=1800&hide_border=true" width="38%" alt="Top Languages" />
 </div>
 
 
