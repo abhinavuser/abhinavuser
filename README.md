@@ -1,15 +1,22 @@
 # Abhinav Kumar
 
-🚀 **Machine Learning and Embedded Engineer | Full Stack Developer**  
+**Embedded Engineer | MLOps | Open Source | Full Stack Developer**  
 📍 VIT Chennai
 
-- 🧠 Working on computational acceleration using specialized hardware
-- ⚙️ Ask me about LLMs, agentic systems, RAG, computer vision, embedded firmware development, and hardware.
-- 📬 Reach me at: chipnxv@gmail.com
+## About Me
+- Working on computational acceleration using specialized hardware and embedded linux
+- Ask me about LLMs, agentic systems, RAG, computer vision, embedded firmware development, and hardware
+- Reach me at: chipnxv@gmail.com
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-kumar-v)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/abhinavuser)
+## GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavuser&theme=rose_pine" width="90%" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavuser&theme=rose_pine" width="45%" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinavuser&theme=rose_pine" width="45%" alt="Most Commit Language"/>
+</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhinavuser&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,7 +59,6 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 
-## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhinavuser&theme=tokyonight&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-kumar-v)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/abhinavuser)
