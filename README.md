@@ -12,11 +12,9 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavuser&theme=rose_pine" width="90%" alt="Profile Details"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavuser&theme=rose_pine" width="45%" alt="Repos per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinavuser&theme=rose_pine" width="45%" alt="Most Commit Language"/>
+  <img src="https://streak-stats.demolab.com/?user=abhinavuser&theme=rose_pine&hide_border=true" width="45%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=rose_pine&cache_seconds=1800" width="45%" alt="Top Languages"/>
 </div>
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhinavuser&theme=tokyonight&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
