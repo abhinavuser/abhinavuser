@@ -12,8 +12,8 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavuser&theme=rose_pine" width="90%" alt="Profile Details"/>
-  <img src="https://streak-stats.demolab.com/?user=abhinavuser&theme=rose_pine&hide_border=true" width="45%" height="250px" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=rose_pine&cache_seconds=1800&hide_border=true" width="45%" height="250px" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=abhinavuser&theme=rose_pine&hide_border=true" width="45%" height="250px" alt="GitHub Streak" style="object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavuser&layout=compact&theme=rose_pine&cache_seconds=1800&hide_border=true" width="45%" height="250px" alt="Top Languages" style="object-fit: cover;"/>
 </div>
 
 ## Languages and Tools:
